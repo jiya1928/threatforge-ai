@@ -126,15 +126,6 @@ PORT=5000
 * Chat history storage
 * Incident response automation
 
-## Screenshots
-
-Add screenshots of:
-
-* Dashboard
-* Threat Analytics
-* AI Copilot
-* Security Monitoring Panel
-
 ## Author
 
 Jiya Bhardwaj
